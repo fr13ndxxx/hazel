@@ -1,0 +1,5 @@
+pandas
+openpyxl
+requests
+PyQt5
+lxml

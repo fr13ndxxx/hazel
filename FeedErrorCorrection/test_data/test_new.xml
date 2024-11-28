@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<products><product><id>1</id><name>Product A</name><price>10.5</price></product><product><id>2</id><name>Product B</name><price>0.0</price></product><product><id>3</id><name>Product C</name><price>0.0</price></product></products>

@@ -1,0 +1,17 @@
+<products>
+    <product>
+        <id>1</id>
+        <name>Product A</name>
+        <price>10.5</price>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Product B</name>
+        <price>-5.0</price>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Product C</name>
+        <price>abc</price>
+    </product>
+</products>
