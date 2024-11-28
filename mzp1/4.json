@@ -1,0 +1,76 @@
+[
+  {
+    "name": "price",
+    "type": "float",
+    "conditions": []
+  },
+  {
+    "name": "currencyId",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "categoryId",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "picture",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "name",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "vendor",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "description",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "barcode",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "Артикул",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "Рейтинг",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "Количество отзывов",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "Скидка",
+    "type": "text",
+    "conditions": []
+  },
+  {
+    "name": "Новинка",
+    "type": "text",
+    "conditions": [
+      {
+        "type": "Длина",
+        "field_type": "text",
+        "values": {
+          "min": 2,
+          "max": 3
+        }
+      }
+    ]
+  }
+]
